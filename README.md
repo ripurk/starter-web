@@ -7,6 +7,10 @@ This is example to show different parts of the Git repository and various comman
 
 ## Purpose
 
+As stated above, the main purpose it to provide simple examples
+
 ## Deployment
+
+This is a simple web project, deployment can be on any web server.
 
 ## How to contribute
